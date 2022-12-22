@@ -6,4 +6,5 @@ In the second step, the machine learning algorithm "Logistic_regression_model" i
 
 Similarly, different models are implemented to obtain better accuracy of the training dataset. The training and test datasets are labelled as "train.csv" and "test.csv" files. The full routine is done on Jupyter Notebook and Python. 
 
-![Training data sample](https://github.com/rid181198/NLP-project-for-tweets/blob/main/training_data.png) 
+
+<img width="884" alt="training_data" src="https://user-images.githubusercontent.com/50884851/209160801-08a8a5f6-4c26-456d-8d9f-7563854a749f.png">
