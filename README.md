@@ -5,3 +5,5 @@ In this project, the tweets regarding the accidents or news related to natural d
 In the second step, the machine learning algorithm "Logistic_regression_model" is implemented. Using the GridSearchCV model, around 70 percent accuracy score was obtained for the training dataset. Then the best model is implemented on the test dataset. 
 
 Similarly, different models are implemented to obtain better accuracy of the training dataset. The training and test datasets are labelled as "train.csv" and "test.csv" files. The full routine is done on Jupyter Notebook and Python. 
+
+![Training data sample](https://github.com/rid181198/NLP-project-for-tweets/blob/main/training_data.png) 
